@@ -1,0 +1,2 @@
+Timestamp,Loan_Cycle,Repayment_Delay,Total_Loans,Default_Rate,Frequent_Product_Category,Last_Loan_Amount,Loan_Reapplication_Frequency,Preferred_Payment_Method,Predicted_Status,Remarks
+2025-05-05 21:36:07,1,0.0,1,0.0,Agriculture,1000.0,Low,Cash,Paid,✅ Low risk: Good repayment history.

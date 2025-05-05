@@ -1,0 +1,501 @@
+CONTRACTNO,Loan_Cycle,Avg_Repayment_Delay_(Days),Total_Loans_Taken,Default_Rate_(%),Frequent_Product_Category,Last_Loan_Amount(#),Last_Loan_Status,Loan_Reapplication_Frequency,Preferred_Payment_Method
+2112094623CCTY,4,2,85,48,Agriculture,46791.07,Active,High,Bank Transfer
+2229040701CCTY,2,4,44,87,Agriculture,66112.52,Delinquent,Low,Cash
+2305927293CCTY,2,5,10,67,Technology & Gadgets,57004.08,Delinquent,Low,Mobile Money
+2229073026CCTY,20,8,49,11,Trade & Commerce,7196.35,Paid,High,Mobile Money
+2123670326CCTY,1,4,73,58,Transportation,20997,Paid,Low,Bank Transfer
+2229047538CCTY,16,0,31,36,Trade & Commerce,65261.68,Delinquent,High,Bank Transfer
+2305942748CCTY,4,3,69,60,Transportation,19207.97,Active,Low,Cash
+2227277945CCTY,1,4,73,42,Technology & Gadgets,55119.59,Active,Medium,Bank Transfer
+2305902251CCTY,3,9,81,69,Transportation,58108.99,Active,Low,Cash
+2227238475CCTY,7,9,20,38,Agriculture,35690.74,Paid,Medium,Bank Transfer
+2230141851CCTY,2,4,23,55,Communication & Telecom,28271.73,Active,Medium,Bank Transfer
+2236303238CCTY,11,6,69,62,Communication & Telecom,32608.46,Paid,Medium,Mobile Money
+2230196936CCTY,4,3,39,45,Technology & Gadgets,17433.6,Paid,Medium,Bank Transfer
+2305906020CCTY,2,0,44,87,Agriculture,62478.58,Active,Low,Bank Transfer
+2229004578CCTY,1,4,94,10,Trade & Commerce,32642.14,Active,High,Cash
+2035651699CCTY,1,6,46,61,Agriculture,62007.24,Delinquent,Medium,Bank Transfer
+2305949311CCTY,13,9,14,76,Communication & Telecom,9187.16,Delinquent,Low,Cash
+2028893461CCTY,1,9,92,97,Communication & Telecom,69202.72,Active,Medium,Bank Transfer
+2029338449CCTY,3,5,87,24,Agriculture,32142.57,Paid,Low,Bank Transfer
+2102172491CCTY,1,4,35,70,Agriculture,5252.5,Paid,Low,Cash
+2224350048CCTY,2,3,71,51,Communication & Telecom,4585.49,Paid,Low,Mobile Money
+2305957200CCTY,6,1,13,3,Trade & Commerce,52742.09,Paid,High,Cash
+2031403932CCTY,1,3,98,58,Technology & Gadgets,46814.42,Paid,Low,Cash
+2031431640CCTY,4,9,51,71,Technology & Gadgets,56544.88,Delinquent,Low,Cash
+2032375973CCTY,1,9,98,19,Agriculture,9164.99,Active,High,Mobile Money
+2034553706CCTY,3,2,27,92,Technology & Gadgets,4418.82,Delinquent,High,Bank Transfer
+2236364215CCTY,2,9,49,62,Communication & Telecom,36583.39,Paid,Low,Cash
+2104751267CCTY,2,0,81,53,Communication & Telecom,28356.48,Paid,High,Cash
+2322938004CCTY,1,7,48,73,Agriculture,33412.39,Paid,Medium,Mobile Money
+2034630237CCTY,1,4,23,97,Agriculture,69428.01,Paid,Medium,Cash
+2029548290CCTY,3,3,41,56,Agriculture,68011,Active,High,Bank Transfer
+2034460535CCTY,3,7,60,89,Trade & Commerce,66077.45,Paid,High,Mobile Money
+2030171360CCTY,1,6,47,40,Technology & Gadgets,55301.3,Active,Low,Bank Transfer
+2030011393CCTY,3,1,32,2,Agriculture,26129.21,Paid,High,Bank Transfer
+2106228309CCTY,3,0,72,5,Transportation,30024.9,Active,Low,Mobile Money
+2029340503CCTY,1,3,24,4,Transportation,39373.89,Delinquent,Medium,Cash
+2032330791CCTY,1,7,34,4,Communication & Telecom,58476.34,Paid,High,Bank Transfer
+2033720594CCTY,1,1,26,53,Technology & Gadgets,6672.47,Active,Low,Bank Transfer
+2103210064CCTY,1,2,75,46,Agriculture,30852.19,Delinquent,Low,Bank Transfer
+2103590329CCTY,1,0,87,86,Transportation,7618,Paid,Medium,Bank Transfer
+2106281419CCTY,1,0,62,48,Technology & Gadgets,36996.72,Paid,High,Mobile Money
+2111759658CCTY,1,2,60,8,Communication & Telecom,63125.26,Paid,Medium,Mobile Money
+2034630131CCTY,1,4,48,98,Trade & Commerce,55208.97,Active,Low,Bank Transfer
+2113049263CCTY,2,2,60,19,Technology & Gadgets,17493.28,Active,Low,Cash
+2317813566CCTY,1,0,79,60,Technology & Gadgets,68367.38,Delinquent,High,Bank Transfer
+2113003501CCTY,1,0,15,34,Trade & Commerce,47379.83,Active,Low,Cash
+2107645043CCTY,4,7,76,49,Technology & Gadgets,2709.08,Active,High,Bank Transfer
+2113127130CCTY,4,9,16,81,Communication & Telecom,19368.12,Paid,Medium,Cash
+2212614093CCTY,3,1,60,61,Communication & Telecom,19728.5,Paid,High,Bank Transfer
+2329313151CCTY,7,2,81,16,Trade & Commerce,6709.29,Paid,High,Cash
+2303212738CCTY,3,1,51,87,Agriculture,67268.2,Paid,Low,Bank Transfer
+2028724058CCTY,1,2,73,2,Transportation,34521.36,Paid,Low,Bank Transfer
+2035286918CCTY,1,6,24,31,Agriculture,62915.39,Paid,High,Cash
+2122844963CCTY,1,0,38,98,Technology & Gadgets,23910.65,Paid,Low,Mobile Money
+2125232413CCTY,4,9,42,12,Transportation,10515.88,Delinquent,Low,Cash
+2034526270CCTY,4,7,36,88,Trade & Commerce,34254.86,Delinquent,Low,Mobile Money
+2103907875CCTY,4,9,45,72,Trade & Commerce,9749.05,Delinquent,High,Bank Transfer
+2114769310CCTY,2,9,38,67,Transportation,35049.05,Delinquent,Low,Cash
+2033700700CCTY,1,9,47,13,Communication & Telecom,64580.21,Paid,High,Cash
+2035676990CCTY,4,1,66,97,Transportation,37412.23,Delinquent,Low,Cash
+2116786428CCTY,2,2,36,10,Technology & Gadgets,43921.98,Paid,Medium,Mobile Money
+2116840940CCTY,1,8,64,55,Communication & Telecom,12651.41,Delinquent,Low,Mobile Money
+2121497901CCTY,1,6,42,66,Trade & Commerce,4974.02,Active,Low,Bank Transfer
+2112583335CCTY,1,3,77,91,Transportation,9534.94,Delinquent,High,Mobile Money
+2034466850CCTY,5,9,95,28,Agriculture,42700.15,Delinquent,High,Mobile Money
+2112509088CCTY,1,4,75,8,Agriculture,8460.8,Paid,Low,Bank Transfer
+2128425759CCTY,1,1,19,66,Technology & Gadgets,27567.52,Delinquent,Medium,Cash
+2227208345CCTY,4,7,14,24,Agriculture,39406.25,Active,Low,Cash
+2303105347CCTY,2,3,83,97,Transportation,28428.39,Paid,Low,Bank Transfer
+2230153456CCTY,4,8,47,75,Transportation,13130.5,Paid,Medium,Cash
+2130196997CCTY,1,4,22,41,Agriculture,20617.81,Delinquent,High,Mobile Money
+2301754708CCTY,1,8,40,8,Transportation,65125.59,Paid,Low,Bank Transfer
+2132051300CCTY,1,3,56,78,Technology & Gadgets,47966.79,Paid,High,Bank Transfer
+2236387078CCTY,11,9,97,39,Communication & Telecom,35731.25,Paid,High,Bank Transfer
+2111362022CCTY,1,4,61,24,Technology & Gadgets,2864.61,Paid,Medium,Cash
+2208041813CCTY,1,8,65,4,Technology & Gadgets,69484.25,Paid,Medium,Bank Transfer
+2208041306CCTY,1,7,24,10,Transportation,47658.94,Paid,High,Bank Transfer
+2211607002CCTY,8,2,38,58,Communication & Telecom,23550.73,Active,Low,Bank Transfer
+2124579713CCTY,4,0,17,97,Transportation,61790.27,Delinquent,High,Cash
+2135157482CCTY,2,2,14,87,Trade & Commerce,19573.35,Active,Low,Mobile Money
+2317784401CCTY,6,3,38,78,Transportation,38993.13,Paid,Low,Bank Transfer
+2115820808CCTY,5,1,56,37,Transportation,45252.81,Paid,Medium,Mobile Money
+2130740027CCTY,2,0,77,71,Transportation,17032.31,Delinquent,Low,Cash
+2227250441CCTY,13,6,85,4,Communication & Telecom,68531.01,Active,Low,Cash
+2322932385CCTY,2,7,54,47,Transportation,52877.05,Delinquent,High,Cash
+2318488517CCTY,8,6,11,89,Communication & Telecom,39931.3,Active,Medium,Cash
+2324054409CCTY,5,4,36,17,Agriculture,14280.43,Paid,Low,Mobile Money
+2334287800CCTY,12,0,45,69,Trade & Commerce,5662.36,Delinquent,Low,Bank Transfer
+2204982022CCTY,1,6,45,36,Communication & Telecom,23764.07,Delinquent,Medium,Cash
+2205553500CCTY,1,6,35,59,Agriculture,53216.74,Paid,High,Cash
+2207602138CCTY,4,8,52,47,Communication & Telecom,20314.53,Delinquent,Medium,Mobile Money
+2213857569CCTY,1,2,36,76,Communication & Telecom,38689.82,Active,Medium,Mobile Money
+2218801092CCTY,6,8,78,27,Trade & Commerce,51500.41,Active,Low,Cash
+2222162207CCTY,1,0,29,68,Technology & Gadgets,9340.17,Active,Low,Bank Transfer
+2229715166CCTY,1,0,20,76,Technology & Gadgets,48600.27,Active,High,Bank Transfer
+2232101112CCTY,1,3,83,80,Communication & Telecom,8247.22,Paid,Low,Cash
+2232619063CCTY,1,8,47,39,Transportation,67628.82,Delinquent,Low,Mobile Money
+2034387779CCTY,1,5,15,44,Agriculture,35210.8,Active,Medium,Cash
+2105309472CCTY,1,2,81,95,Transportation,12245.98,Paid,Low,Cash
+2115206506CCTY,5,0,32,61,Transportation,25282.09,Delinquent,High,Mobile Money
+2035652014CCTY,1,3,56,92,Communication & Telecom,30112.32,Delinquent,Medium,Cash
+2034968671CCTY,1,8,99,57,Communication & Telecom,53556.58,Paid,High,Cash
+2116255066CCTY,7,2,55,66,Communication & Telecom,52552.82,Paid,Medium,Cash
+2119013398CCTY,1,8,21,55,Communication & Telecom,43611.95,Active,Low,Mobile Money
+2032456289CCTY,5,6,99,39,Technology & Gadgets,9203.29,Delinquent,Medium,Bank Transfer
+2107660012CCTY,5,3,22,97,Communication & Telecom,12306.72,Delinquent,Medium,Bank Transfer
+2123270306CCTY,1,2,71,39,Technology & Gadgets,8375.47,Paid,Low,Mobile Money
+2236302477CCTY,6,9,91,90,Technology & Gadgets,41247.75,Delinquent,Low,Bank Transfer
+2106103707CCTY,4,4,98,76,Communication & Telecom,61645.41,Active,High,Cash
+2032123000CCTY,2,4,69,32,Trade & Commerce,31498.43,Delinquent,High,Bank Transfer
+2101436069CCTY,5,2,52,5,Agriculture,12937.68,Paid,Low,Cash
+2204995895CCTY,3,8,85,87,Transportation,39946.88,Paid,Low,Bank Transfer
+2122878049CCTY,4,3,77,18,Technology & Gadgets,57199.15,Active,Low,Mobile Money
+2317467200CCTY,2,4,14,79,Agriculture,52436.42,Active,Medium,Bank Transfer
+2120823010CCTY,3,3,46,39,Trade & Commerce,61938.65,Delinquent,Medium,Bank Transfer
+2134471316CCTY,1,4,81,91,Transportation,20897.34,Delinquent,Medium,Bank Transfer
+2204798957CCTY,1,6,40,96,Transportation,15188.86,Paid,Low,Mobile Money
+2206250020CCTY,2,8,18,58,Technology & Gadgets,61827.52,Active,High,Bank Transfer
+2211269527CCTY,6,6,60,58,Communication & Telecom,46714.1,Active,Low,Mobile Money
+2211267414CCTY,3,4,38,47,Trade & Commerce,23143.17,Active,Medium,Cash
+2211540050CCTY,1,9,87,40,Technology & Gadgets,52479.67,Delinquent,Medium,Bank Transfer
+2213746029CCTY,3,9,49,12,Trade & Commerce,57428.05,Active,Low,Mobile Money
+2215046729CCTY,1,6,50,44,Communication & Telecom,43818.52,Paid,Low,Mobile Money
+2216137012CCTY,1,9,95,88,Communication & Telecom,48776.12,Paid,Medium,Bank Transfer
+2217203399CCTY,1,4,20,52,Technology & Gadgets,27517.67,Delinquent,Medium,Cash
+2217859254CCTY,2,2,32,41,Communication & Telecom,38631.31,Delinquent,Medium,Mobile Money
+2218192610CCTY,1,6,10,99,Agriculture,37642.82,Active,Low,Bank Transfer
+2218139337CCTY,7,1,55,62,Transportation,59667.25,Delinquent,Medium,Cash
+2225583518CCTY,1,8,30,26,Technology & Gadgets,59117.55,Paid,Medium,Mobile Money
+2227239118CCTY,1,9,99,37,Trade & Commerce,58622.27,Active,High,Mobile Money
+2301807752CCTY,1,9,45,59,Agriculture,2750.15,Paid,Low,Cash
+2035002730CCTY,4,0,63,6,Technology & Gadgets,52969.09,Active,High,Cash
+2034605549CCTY,1,5,96,4,Communication & Telecom,53589.99,Delinquent,High,Bank Transfer
+2028751009CCTY,3,6,66,44,Communication & Telecom,48129.76,Active,Medium,Bank Transfer
+2033068539CCTY,6,7,10,57,Communication & Telecom,53426,Active,Low,Mobile Money
+2127805704CCTY,1,9,72,30,Communication & Telecom,59253.99,Paid,Medium,Cash
+2031890037CCTY,5,8,63,22,Trade & Commerce,33981.7,Paid,Low,Cash
+2123116281CCTY,1,1,64,41,Agriculture,36139.41,Active,High,Cash
+2114570080CCTY,1,9,49,9,Transportation,10480.56,Delinquent,Low,Mobile Money
+2129307555CCTY,1,1,24,31,Trade & Commerce,28205.56,Delinquent,Medium,Cash
+1914220800CCTY,1,4,30,52,Trade & Commerce,45748.83,Paid,Medium,Cash
+2117694070CCTY,2,4,56,29,Transportation,55067.18,Delinquent,Medium,Mobile Money
+2031017027CCTY,5,5,82,38,Transportation,16770.22,Paid,Low,Bank Transfer
+2101995018CCTY,2,2,62,30,Communication & Telecom,11371.96,Delinquent,High,Bank Transfer
+2103375121CCTY,3,7,18,81,Trade & Commerce,47086.86,Active,High,Mobile Money
+2105009700CCTY,1,0,83,99,Technology & Gadgets,2127.83,Paid,Low,Cash
+2114404799CCTY,2,5,61,1,Transportation,14129.34,Paid,Medium,Mobile Money
+2028900315CCTY,3,3,66,77,Transportation,3976.85,Active,High,Bank Transfer
+2034208929CCTY,1,0,35,76,Agriculture,13348.19,Paid,Medium,Bank Transfer
+2102545504CCTY,3,6,50,92,Technology & Gadgets,14329.71,Delinquent,Low,Mobile Money
+2125390575CCTY,4,8,44,11,Technology & Gadgets,28361.8,Delinquent,Medium,Mobile Money
+2129386853CCTY,2,3,72,38,Transportation,29358.24,Paid,High,Bank Transfer
+2126466347CCTY,1,3,34,65,Communication & Telecom,61449.85,Delinquent,High,Mobile Money
+2104214840CCTY,1,5,99,95,Agriculture,36687.46,Paid,Medium,Bank Transfer
+2118349406CCTY,2,2,84,12,Technology & Gadgets,51191.52,Active,Low,Mobile Money
+2134457618CCTY,4,5,47,45,Transportation,9081.34,Paid,Medium,Mobile Money
+2118231618CCTY,6,6,11,26,Technology & Gadgets,17329.84,Active,Low,Mobile Money
+2031635414CCTY,1,9,16,16,Agriculture,49800.15,Delinquent,Medium,Bank Transfer
+2112593299CCTY,1,9,91,94,Agriculture,5590.67,Active,High,Mobile Money
+2112513155CCTY,2,2,43,97,Trade & Commerce,35088.64,Delinquent,Low,Bank Transfer
+2120421350CCTY,1,6,26,59,Transportation,42757.09,Paid,Low,Bank Transfer
+2126417953CCTY,6,2,52,63,Agriculture,42945.9,Delinquent,Low,Mobile Money
+2123820304CCTY,3,1,68,87,Trade & Commerce,3559.43,Paid,High,Mobile Money
+2126675679CCTY,1,9,60,34,Trade & Commerce,23903.34,Paid,Medium,Bank Transfer
+2120045221CCTY,8,3,63,69,Technology & Gadgets,45281.36,Active,High,Bank Transfer
+2205232578CCTY,1,7,33,82,Technology & Gadgets,12131.98,Active,Low,Cash
+2117608852CCTY,1,8,34,29,Trade & Commerce,49288.26,Active,Medium,Bank Transfer
+2204037613CCTY,4,6,80,70,Technology & Gadgets,52722.91,Active,High,Cash
+2203514751CCTY,1,0,61,73,Agriculture,68773.9,Delinquent,Low,Cash
+2204140056CCTY,1,2,79,95,Communication & Telecom,16269.26,Delinquent,Low,Cash
+2325891342CCTY,9,8,97,97,Agriculture,58108.89,Delinquent,High,Mobile Money
+2206351944CCTY,8,0,42,62,Trade & Commerce,37380.17,Paid,High,Mobile Money
+2227287927CCTY,1,8,58,27,Trade & Commerce,27395.46,Delinquent,High,Bank Transfer
+2317767773CCTY,2,7,38,59,Agriculture,10321.62,Delinquent,Low,Cash
+2325179774CCTY,2,0,72,78,Technology & Gadgets,52014.38,Delinquent,High,Mobile Money
+2327829305CCTY,10,5,31,93,Technology & Gadgets,18038.32,Active,Low,Mobile Money
+2332519970CCTY,9,4,35,36,Trade & Commerce,27256.7,Delinquent,High,Mobile Money
+2206669198CCTY,4,5,37,92,Transportation,6252.87,Paid,Low,Mobile Money
+2207620859CCTY,1,9,94,21,Technology & Gadgets,56492.95,Active,Low,Mobile Money
+2213729876CCTY,3,4,58,67,Agriculture,54128.02,Paid,Medium,Cash
+2205905915CCTY,5,5,80,19,Technology & Gadgets,51885.88,Delinquent,High,Cash
+2032487640CCTY,6,4,90,95,Agriculture,22362.16,Active,High,Cash
+2120308066CCTY,1,4,93,99,Trade & Commerce,13796.65,Paid,Low,Cash
+2135187166CCTY,7,3,58,67,Technology & Gadgets,45353.62,Delinquent,Low,Bank Transfer
+2134370997CCTY,1,2,29,90,Agriculture,35739.31,Paid,Low,Cash
+2135163148CCTY,1,2,95,63,Trade & Commerce,14121.17,Paid,Medium,Mobile Money
+2230106260CCTY,1,3,72,16,Transportation,48641.97,Paid,Medium,Cash
+2222330059CCTY,1,8,70,11,Agriculture,69396.6,Delinquent,Low,Bank Transfer
+2116730691CCTY,2,1,58,21,Transportation,52810.93,Delinquent,High,Mobile Money
+2123058827CCTY,2,8,80,16,Transportation,52319.07,Paid,High,Cash
+2332632999CCTY,8,0,10,9,Communication & Telecom,66621.27,Active,Medium,Cash
+2334768782CCTY,9,0,22,64,Technology & Gadgets,15799.67,Active,Medium,Cash
+2321297030CCTY,2,4,96,21,Agriculture,40457.4,Delinquent,Low,Mobile Money
+2329614246CCTY,1,5,60,89,Transportation,68615.98,Delinquent,High,Mobile Money
+2334724538CCTY,5,5,65,81,Communication & Telecom,13240,Delinquent,Low,Bank Transfer
+2210330406CCTY,2,2,92,49,Trade & Commerce,49617.13,Delinquent,Medium,Mobile Money
+2211198988CCTY,2,6,71,13,Agriculture,41835.09,Delinquent,High,Mobile Money
+2213271292CCTY,2,8,41,63,Transportation,41880.58,Active,High,Cash
+2218814295CCTY,6,9,39,46,Technology & Gadgets,49441.6,Delinquent,Medium,Mobile Money
+2227102023CCTY,3,7,38,28,Communication & Telecom,65213.95,Paid,Low,Cash
+2229462752CCTY,4,5,58,75,Transportation,55215.57,Paid,Low,Cash
+2233432006CCTY,2,7,54,35,Technology & Gadgets,5817.26,Active,High,Mobile Money
+2313236287CCTY,2,4,39,98,Transportation,59985.51,Paid,Medium,Bank Transfer
+2222040116CCTY,1,7,25,51,Agriculture,17336.81,Active,High,Bank Transfer
+2116206528CCTY,2,9,49,75,Agriculture,27630.16,Active,Medium,Mobile Money
+2104628724CCTY,1,3,28,6,Agriculture,33397.83,Paid,Low,Bank Transfer
+2105651900CCTY,1,9,27,28,Communication & Telecom,34701.61,Delinquent,Medium,Cash
+2034924242CCTY,5,7,10,10,Agriculture,31592.27,Paid,Low,Cash
+2133522289CCTY,1,9,87,32,Technology & Gadgets,65740.02,Paid,Medium,Mobile Money
+2120909521CCTY,1,1,56,5,Transportation,50009.29,Active,High,Bank Transfer
+2033940725CCTY,1,4,75,78,Trade & Commerce,44919.6,Paid,Low,Bank Transfer
+2034309220CCTY,5,8,47,31,Technology & Gadgets,5389.26,Active,High,Cash
+2106103457CCTY,2,3,60,50,Technology & Gadgets,63466.11,Delinquent,High,Mobile Money
+2113119004CCTY,2,5,72,74,Agriculture,63838.53,Delinquent,Low,Bank Transfer
+2106993630CCTY,1,0,13,57,Communication & Telecom,55054.49,Delinquent,Low,Mobile Money
+2133614734CCTY,1,8,10,86,Transportation,2477.99,Paid,High,Bank Transfer
+2134368017CCTY,5,0,17,25,Communication & Telecom,5895.06,Active,High,Cash
+2135077934CCTY,7,4,38,97,Transportation,17315.21,Delinquent,High,Cash
+2202868293CCTY,1,3,64,45,Transportation,10931.76,Active,High,Mobile Money
+2130950909CCTY,1,2,12,97,Communication & Telecom,29120.85,Active,Low,Cash
+2235047560CCTY,6,5,41,28,Technology & Gadgets,64738.37,Delinquent,Low,Bank Transfer
+2232051292CCTY,9,1,19,3,Transportation,34100.11,Delinquent,High,Cash
+2221448828CCTY,2,2,83,80,Communication & Telecom,2911.38,Active,Medium,Mobile Money
+2328962455CCTY,8,4,92,98,Transportation,21226.71,Delinquent,Medium,Mobile Money
+2217269400CCTY,7,8,43,12,Trade & Commerce,5032.45,Active,Low,Mobile Money
+2227056308CCTY,6,1,96,38,Technology & Gadgets,4467.56,Active,High,Bank Transfer
+2123211910CCTY,1,9,64,14,Agriculture,20748.95,Delinquent,High,Bank Transfer
+2133635704CCTY,1,7,41,28,Transportation,20741.64,Paid,Low,Bank Transfer
+2114166108CCTY,1,1,59,28,Trade & Commerce,55524.61,Delinquent,Medium,Bank Transfer
+2116160272CCTY,1,4,16,74,Agriculture,68288.76,Paid,Medium,Bank Transfer
+2112600725CCTY,1,6,17,31,Agriculture,27242.08,Active,Medium,Cash
+2123985771CCTY,1,7,74,1,Transportation,31164.31,Active,Low,Bank Transfer
+2123820212CCTY,1,0,66,46,Communication & Telecom,59445.68,Paid,Medium,Bank Transfer
+2125709288CCTY,1,5,76,77,Transportation,20233.45,Active,Low,Cash
+2332008262CCTY,4,0,97,83,Trade & Commerce,12633.96,Paid,Low,Bank Transfer
+2317445849CCTY,8,1,96,21,Agriculture,60010.09,Paid,High,Mobile Money
+2321435296CCTY,6,0,68,74,Transportation,5162.04,Active,Medium,Bank Transfer
+2331409138CCTY,6,4,81,26,Communication & Telecom,44139.56,Paid,Low,Bank Transfer
+2225610106CCTY,20,9,63,66,Transportation,40215.51,Delinquent,Medium,Mobile Money
+2201801153CCTY,7,8,76,80,Technology & Gadgets,25522.59,Delinquent,Medium,Mobile Money
+2207009203CCTY,6,5,60,55,Communication & Telecom,23432.89,Active,High,Mobile Money
+2217412017CCTY,7,0,17,91,Trade & Commerce,54486.33,Active,Medium,Mobile Money
+2222781006CCTY,8,0,43,92,Agriculture,7876.87,Paid,High,Bank Transfer
+2208289262CCTY,2,1,44,20,Transportation,18101.33,Paid,Low,Mobile Money
+2213765401CCTY,1,8,97,46,Communication & Telecom,51806.51,Paid,Medium,Mobile Money
+2214475006CCTY,3,2,87,79,Technology & Gadgets,39285.8,Paid,Low,Cash
+2215994590CCTY,2,0,41,58,Communication & Telecom,10703.2,Delinquent,Medium,Mobile Money
+2229003020CCTY,2,4,55,83,Technology & Gadgets,61985.22,Delinquent,Low,Mobile Money
+2203877821CCTY,7,6,25,5,Trade & Commerce,28754.45,Active,Medium,Cash
+2331874485CCTY,4,5,77,18,Agriculture,58295.05,Paid,Medium,Cash
+2321432325CCTY,2,0,46,56,Trade & Commerce,55564.49,Paid,Medium,Bank Transfer
+2334195663CCTY,23,4,63,68,Transportation,44460.93,Active,Medium,Cash
+2313884083CCTY,3,4,94,2,Communication & Telecom,35624.72,Paid,Medium,Bank Transfer
+2318660137CCTY,9,5,23,0,Technology & Gadgets,68609.46,Paid,Medium,Cash
+2319217400CCTY,9,2,64,57,Technology & Gadgets,11857.62,Paid,Medium,Cash
+2332004377CCTY,3,4,57,37,Communication & Telecom,51310.59,Paid,Medium,Bank Transfer
+2332512009CCTY,23,6,91,14,Communication & Telecom,15000.97,Paid,Medium,Cash
+2329061928CCTY,3,4,16,33,Transportation,25001.89,Active,Low,Bank Transfer
+2323557359CCTY,3,4,83,60,Trade & Commerce,22991.51,Paid,High,Cash
+2207407905CCTY,7,4,16,34,Technology & Gadgets,66398.45,Active,Medium,Mobile Money
+2210242045CCTY,6,9,42,63,Transportation,67780.22,Paid,High,Cash
+2210305870CCTY,5,9,32,24,Trade & Commerce,14445.05,Delinquent,Medium,Bank Transfer
+2213322199CCTY,6,2,94,23,Transportation,3498.39,Delinquent,Medium,Cash
+2219920791CCTY,2,0,28,11,Technology & Gadgets,50960.55,Delinquent,Low,Bank Transfer
+2222114957CCTY,8,4,28,17,Communication & Telecom,30423.32,Delinquent,Low,Bank Transfer
+2229292756CCTY,3,8,45,14,Communication & Telecom,8041.14,Active,High,Mobile Money
+2233643885CCTY,7,0,38,79,Trade & Commerce,48495.28,Active,Low,Mobile Money
+2235449269CCTY,6,2,69,26,Agriculture,39067.18,Paid,Low,Bank Transfer
+2305870767CCTY,6,3,91,71,Trade & Commerce,68675.14,Delinquent,High,Cash
+2308626693CCTY,6,0,11,59,Agriculture,17463.85,Active,Low,Bank Transfer
+2311767640CCTY,5,0,10,45,Transportation,29470.5,Paid,Medium,Bank Transfer
+2325805303CCTY,3,7,56,88,Transportation,38893.11,Paid,High,Cash
+2202062874CCTY,1,1,78,16,Technology & Gadgets,55835.6,Active,High,Cash
+2208440850CCTY,1,7,29,92,Agriculture,39321.03,Delinquent,Medium,Cash
+2211530580CCTY,1,6,20,52,Technology & Gadgets,43677.21,Paid,Low,Cash
+2211531453CCTY,1,9,11,7,Communication & Telecom,17378,Delinquent,High,Bank Transfer
+2221515230CCTY,1,9,76,78,Agriculture,59590.47,Delinquent,High,Bank Transfer
+2223154060CCTY,1,1,96,26,Trade & Commerce,31146.88,Delinquent,Medium,Mobile Money
+2229200964CCTY,4,5,21,45,Communication & Telecom,11585.25,Paid,Medium,Bank Transfer
+2229354558CCTY,1,5,29,49,Communication & Telecom,47164.78,Delinquent,Low,Cash
+2233263285CCTY,1,2,14,70,Trade & Commerce,16694.15,Paid,High,Mobile Money
+2235537140CCTY,7,1,46,2,Communication & Telecom,8634.25,Delinquent,Low,Cash
+2132370096CCTY,1,0,47,92,Agriculture,60615.11,Paid,Low,Bank Transfer
+2108529020CCTY,1,5,18,63,Technology & Gadgets,33291.03,Delinquent,Medium,Mobile Money
+2122370203CCTY,1,4,62,43,Communication & Telecom,52951.29,Active,High,Cash
+2116754156CCTY,1,8,53,52,Agriculture,21759.95,Delinquent,High,Mobile Money
+2131423002CCTY,6,0,95,23,Transportation,55513.97,Delinquent,High,Mobile Money
+2129431091CCTY,1,6,33,59,Agriculture,9611.64,Paid,Medium,Bank Transfer
+2126306790CCTY,2,4,90,2,Technology & Gadgets,26206.19,Paid,Medium,Cash
+2111335202CCTY,1,4,83,19,Agriculture,68508.2,Delinquent,Medium,Mobile Money
+2119317387CCTY,7,1,39,45,Trade & Commerce,55991.3,Active,Medium,Mobile Money
+2107630758CCTY,1,2,68,14,Technology & Gadgets,35813.4,Active,Medium,Cash
+2134030009CCTY,1,6,96,24,Transportation,25104.87,Paid,High,Mobile Money
+2129492535CCTY,7,5,90,93,Trade & Commerce,61305.23,Active,Low,Mobile Money
+2110227406CCTY,2,1,90,77,Agriculture,39049.65,Delinquent,High,Mobile Money
+2110436331CCTY,4,5,23,70,Technology & Gadgets,53572.9,Paid,Low,Cash
+2134744515CCTY,4,1,18,16,Transportation,53279.32,Delinquent,Medium,Cash
+2207664827CCTY,1,1,49,83,Trade & Commerce,3220.31,Paid,Low,Cash
+2303166349CCTY,13,1,75,99,Transportation,10585.26,Paid,High,Cash
+2208329815CCTY,7,2,34,8,Agriculture,46854.8,Paid,High,Bank Transfer
+2236365550CCTY,1,1,82,37,Transportation,12990.15,Paid,Low,Mobile Money
+2313571192CCTY,9,3,31,47,Communication & Telecom,19373.55,Active,Medium,Cash
+2323322961CCTY,2,8,13,59,Trade & Commerce,66371.38,Delinquent,Medium,Mobile Money
+2035300063CCTY,5,5,35,62,Transportation,40092.39,Delinquent,High,Mobile Money
+2236397056CCTY,17,0,67,85,Agriculture,53049.61,Delinquent,Low,Bank Transfer
+2331840280CCTY,8,7,38,1,Agriculture,39942.69,Paid,Medium,Cash
+2215156396CCTY,3,6,96,87,Transportation,39570.93,Active,Medium,Cash
+2112507034CCTY,4,9,46,71,Agriculture,8402.33,Delinquent,High,Mobile Money
+2303150564CCTY,13,2,84,10,Technology & Gadgets,25369.1,Active,Medium,Cash
+2311722693CCTY,11,0,79,63,Technology & Gadgets,21205.3,Paid,Low,Mobile Money
+2318560000CCTY,10,4,27,76,Technology & Gadgets,28569.53,Delinquent,High,Mobile Money
+2320782288CCTY,8,3,94,80,Communication & Telecom,56287.4,Active,High,Bank Transfer
+2321287282CCTY,4,9,51,71,Transportation,27291.42,Paid,Low,Bank Transfer
+2327744042CCTY,5,7,50,20,Communication & Telecom,32715.38,Active,High,Bank Transfer
+2328492700CCTY,3,0,47,17,Agriculture,29021.93,Delinquent,Medium,Mobile Money
+2317749106CCTY,2,9,43,93,Communication & Telecom,8351.74,Delinquent,Medium,Cash
+2324401274CCTY,7,0,26,63,Agriculture,31992.91,Paid,Low,Bank Transfer
+2225594773CCTY,7,3,46,81,Agriculture,15301.43,Paid,Medium,Cash
+2235526331CCTY,6,7,34,94,Trade & Commerce,14697.18,Paid,Low,Bank Transfer
+2211554183CCTY,1,4,85,37,Technology & Gadgets,8394.46,Active,Low,Bank Transfer
+2214592416CCTY,2,1,96,31,Agriculture,26253.63,Active,Medium,Mobile Money
+2227005740CCTY,1,5,95,10,Trade & Commerce,53508.77,Active,Low,Bank Transfer
+2315344001CCTY,3,4,94,44,Technology & Gadgets,20798.03,Paid,Medium,Bank Transfer
+2035063124CCTY,5,1,36,88,Agriculture,23239.74,Delinquent,High,Mobile Money
+2114178638CCTY,6,2,66,32,Agriculture,45701.88,Delinquent,High,Cash
+2132757345CCTY,1,8,40,40,Communication & Telecom,15317.18,Active,Low,Bank Transfer
+2112713020CCTY,5,6,15,7,Communication & Telecom,62993.14,Active,Medium,Mobile Money
+2114132630CCTY,8,6,49,10,Technology & Gadgets,37372.96,Delinquent,Medium,Bank Transfer
+2132086291CCTY,7,5,21,85,Agriculture,32437,Delinquent,High,Mobile Money
+2329110240CCTY,9,7,62,50,Transportation,39931.77,Active,High,Cash
+2317450490CCTY,2,3,80,87,Communication & Telecom,13290.33,Active,Medium,Cash
+2325760540CCTY,6,7,19,40,Technology & Gadgets,43716.17,Delinquent,Low,Mobile Money
+2332699120CCTY,4,3,54,16,Agriculture,26690.85,Paid,High,Mobile Money
+2224245509CCTY,6,7,26,75,Agriculture,63008.67,Active,Low,Mobile Money
+2313557926CCTY,4,8,35,45,Transportation,13482.09,Delinquent,Low,Cash
+2313626532CCTY,2,2,94,31,Technology & Gadgets,36479.48,Delinquent,High,Bank Transfer
+2213314502CCTY,16,2,71,78,Agriculture,42671.66,Delinquent,Low,Cash
+2214370076CCTY,7,1,55,79,Communication & Telecom,4270.08,Delinquent,Low,Mobile Money
+2321200028CCTY,5,9,73,53,Transportation,26731.13,Paid,Medium,Mobile Money
+2320008393CCTY,1,2,11,85,Technology & Gadgets,51819.2,Delinquent,Low,Cash
+2315326572CCTY,6,2,63,91,Transportation,57785.67,Active,Medium,Mobile Money
+2135124510CCTY,3,4,74,19,Communication & Telecom,23295.02,Paid,High,Cash
+2209810046CCTY,7,4,60,32,Technology & Gadgets,56304.34,Delinquent,High,Mobile Money
+2234623990CCTY,7,1,62,73,Transportation,67807.4,Paid,Medium,Bank Transfer
+2230014521CCTY,1,9,45,39,Trade & Commerce,60267.43,Active,High,Bank Transfer
+2132620260CCTY,1,5,35,31,Communication & Telecom,9999.79,Delinquent,Low,Mobile Money
+2110524002CCTY,4,4,38,96,Communication & Telecom,52301.66,Active,Low,Cash
+2133685266CCTY,1,5,30,1,Communication & Telecom,23737.34,Delinquent,Low,Bank Transfer
+2121648534CCTY,1,0,20,96,Trade & Commerce,69212.29,Delinquent,High,Cash
+2132601206CCTY,13,4,49,32,Trade & Commerce,35004.41,Delinquent,Low,Mobile Money
+2132765346CCTY,6,8,20,76,Agriculture,10325.51,Delinquent,High,Cash
+2318640030CCTY,1,9,45,29,Transportation,51312.62,Delinquent,Low,Bank Transfer
+2324204590CCTY,2,1,68,32,Agriculture,23964.76,Paid,Medium,Cash
+2334501390CCTY,6,0,48,76,Transportation,69801.31,Delinquent,High,Cash
+2318708791CCTY,1,9,63,25,Trade & Commerce,68625.21,Delinquent,High,Mobile Money
+2311592522CCTY,4,8,64,21,Trade & Commerce,46617.11,Paid,Low,Mobile Money
+2320706009CCTY,8,9,33,65,Agriculture,10828.2,Paid,High,Mobile Money
+2207527842CCTY,3,8,31,37,Technology & Gadgets,48706.55,Paid,High,Bank Transfer
+2213909364CCTY,4,8,78,89,Agriculture,8326.07,Paid,Medium,Bank Transfer
+2214460019CCTY,8,5,65,45,Transportation,3996.76,Paid,Medium,Mobile Money
+2217814029CCTY,1,7,42,14,Agriculture,57961.17,Paid,Low,Mobile Money
+2310737460CCTY,2,0,45,97,Communication & Telecom,16263.2,Delinquent,Medium,Bank Transfer
+2132041361CCTY,7,9,29,43,Transportation,27773.84,Delinquent,Low,Bank Transfer
+2122200401CCTY,6,3,92,48,Transportation,68195.1,Active,Low,Bank Transfer
+2208033039CCTY,15,0,90,74,Technology & Gadgets,24905.15,Delinquent,Low,Bank Transfer
+2225588728CCTY,16,7,71,60,Trade & Commerce,22161.31,Delinquent,High,Mobile Money
+2334816130CCTY,3,0,82,66,Transportation,64438.14,Paid,Medium,Bank Transfer
+2318434925CCTY,3,2,35,5,Trade & Commerce,9530.89,Paid,Low,Mobile Money
+2323746687CCTY,5,3,75,8,Agriculture,53651.6,Delinquent,Medium,Cash
+2318130809CCTY,2,7,82,5,Communication & Telecom,69188.46,Active,Low,Cash
+2332454674CCTY,2,5,82,72,Technology & Gadgets,63288.13,Paid,Medium,Bank Transfer
+2334089038CCTY,3,9,49,94,Trade & Commerce,46313.42,Delinquent,Medium,Cash
+2305420027CCTY,7,6,26,31,Transportation,23356.13,Delinquent,Low,Cash
+2317850018CCTY,7,7,10,40,Trade & Commerce,19293.89,Active,High,Cash
+2226269731CCTY,6,1,98,75,Transportation,57709.35,Active,Medium,Bank Transfer
+2105715397CCTY,1,9,70,7,Trade & Commerce,61827.89,Paid,High,Bank Transfer
+2128594770CCTY,1,7,52,71,Transportation,37729.57,Active,High,Cash
+2128520464CCTY,2,2,51,49,Agriculture,18615.12,Delinquent,Low,Mobile Money
+2324330327CCTY,21,6,34,91,Transportation,9680.14,Delinquent,Low,Cash
+2331924511CCTY,7,2,48,61,Transportation,7928.2,Active,Low,Bank Transfer
+2204995437CCTY,8,6,44,83,Communication & Telecom,50897.27,Active,Medium,Bank Transfer
+2324318244CCTY,7,1,12,61,Transportation,30568.07,Active,Low,Bank Transfer
+2317144903CCTY,3,9,53,6,Communication & Telecom,63564.47,Active,Low,Cash
+2305872936CCTY,1,5,60,74,Technology & Gadgets,52297.65,Paid,Medium,Mobile Money
+2132362881CCTY,6,2,21,83,Communication & Telecom,15005.71,Active,Medium,Bank Transfer
+2317890725CCTY,7,2,28,79,Agriculture,43736.86,Paid,Low,Bank Transfer
+2227267048CCTY,13,8,53,3,Communication & Telecom,31614.37,Delinquent,Low,Cash
+2333195423CCTY,1,6,68,5,Technology & Gadgets,41252.98,Active,Low,Mobile Money
+2322913304CCTY,3,4,58,57,Agriculture,52188.7,Paid,Low,Cash
+2235587747CCTY,1,9,70,21,Trade & Commerce,56821.32,Active,High,Bank Transfer
+2334163310CCTY,30,6,26,25,Trade & Commerce,59374.14,Delinquent,High,Mobile Money
+2334666025CCTY,25,8,83,2,Communication & Telecom,19270.29,Delinquent,Low,Mobile Money
+2317705252CCTY,10,0,66,40,Communication & Telecom,4115.86,Delinquent,High,Bank Transfer
+2317843243CCTY,11,6,64,59,Technology & Gadgets,52272.04,Active,Medium,Mobile Money
+2318798909CCTY,5,5,56,13,Technology & Gadgets,9231.37,Active,High,Mobile Money
+2319108310CCTY,14,9,21,74,Transportation,23414.53,Paid,High,Cash
+2320270008CCTY,8,8,71,81,Technology & Gadgets,2259.57,Delinquent,Low,Bank Transfer
+2322144008CCTY,8,0,89,11,Transportation,48353.52,Active,High,Bank Transfer
+2322365327CCTY,8,3,97,86,Agriculture,13364.98,Delinquent,High,Bank Transfer
+2323537860CCTY,8,8,92,11,Communication & Telecom,46559.2,Delinquent,High,Bank Transfer
+2324238525CCTY,10,3,17,12,Agriculture,69438.5,Paid,High,Bank Transfer
+2325184552CCTY,6,9,30,24,Technology & Gadgets,6941.62,Paid,Medium,Mobile Money
+2327709858CCTY,6,2,90,44,Agriculture,7241.3,Paid,Low,Cash
+2328284830CCTY,18,8,96,18,Agriculture,25145.85,Paid,Low,Bank Transfer
+2328998736CCTY,10,1,89,54,Agriculture,60914.28,Delinquent,Medium,Cash
+2329045068CCTY,11,3,79,99,Technology & Gadgets,16656.03,Paid,High,Cash
+2329647626CCTY,8,5,81,44,Agriculture,26505.69,Paid,Medium,Mobile Money
+2329932676CCTY,11,1,34,7,Transportation,6658.37,Paid,High,Bank Transfer
+2330067269CCTY,11,7,91,92,Technology & Gadgets,53894.56,Paid,Medium,Mobile Money
+2331085259CCTY,3,7,98,52,Agriculture,29764.83,Delinquent,Low,Bank Transfer
+2332428878CCTY,7,0,21,54,Technology & Gadgets,53628.91,Paid,Low,Mobile Money
+2334966249CCTY,6,2,24,31,Trade & Commerce,63445.33,Delinquent,Low,Cash
+2308779370CCTY,3,9,68,50,Transportation,17827.89,Active,High,Bank Transfer
+2318427440CCTY,1,8,35,43,Agriculture,56902.93,Delinquent,High,Cash
+2318447813CCTY,1,4,35,81,Trade & Commerce,6018.38,Delinquent,Medium,Cash
+2323739280CCTY,3,5,56,69,Trade & Commerce,63121.62,Paid,Medium,Mobile Money
+2327994068CCTY,2,3,41,17,Technology & Gadgets,46252.26,Active,Low,Bank Transfer
+2332052902CCTY,2,9,19,82,Trade & Commerce,61447.42,Active,High,Cash
+2308907382CCTY,3,1,25,21,Transportation,2012.81,Active,Medium,Mobile Money
+2320038950CCTY,2,7,80,36,Transportation,13497.51,Active,High,Bank Transfer
+2325026585CCTY,9,5,26,95,Communication & Telecom,28503.64,Delinquent,High,Bank Transfer
+2325803978CCTY,8,4,32,55,Transportation,27806.2,Active,Low,Cash
+2331875829CCTY,3,8,35,58,Trade & Commerce,17417.67,Delinquent,Low,Bank Transfer
+2328585894CCTY,7,0,94,2,Transportation,27949.61,Delinquent,High,Cash
+2329261598CCTY,5,4,95,27,Technology & Gadgets,10761.71,Delinquent,High,Bank Transfer
+2333840000CCTY,2,5,16,73,Communication & Telecom,30067.76,Active,High,Mobile Money
+2333881669CCTY,4,4,23,34,Trade & Commerce,56560.09,Paid,High,Cash
+2213276768CCTY,4,5,88,60,Communication & Telecom,34576.76,Paid,Low,Cash
+2210192092CCTY,14,5,16,92,Trade & Commerce,3224.01,Active,Medium,Bank Transfer
+2218151304CCTY,17,6,18,53,Technology & Gadgets,30658.19,Paid,Low,Bank Transfer
+2230431460CCTY,6,3,57,62,Communication & Telecom,3847.9,Paid,Medium,Cash
+2230765604CCTY,4,7,81,78,Agriculture,67704.55,Delinquent,High,Bank Transfer
+2308368018CCTY,9,6,68,96,Trade & Commerce,10666.87,Delinquent,Medium,Mobile Money
+2213800465CCTY,1,8,96,6,Agriculture,50122.81,Active,Low,Bank Transfer
+2216872556CCTY,1,6,91,75,Communication & Telecom,68148.79,Active,Low,Mobile Money
+2217236087CCTY,1,2,48,48,Agriculture,58170.66,Paid,High,Mobile Money
+2224220104CCTY,1,2,27,93,Agriculture,49553.45,Delinquent,Low,Mobile Money
+2228660522CCTY,2,7,68,84,Communication & Telecom,59083.34,Active,High,Mobile Money
+2234717575CCTY,2,4,26,30,Technology & Gadgets,68762.31,Active,Low,Mobile Money
+2312313000CCTY,2,3,23,57,Agriculture,44251.43,Active,Low,Bank Transfer
+2313550605CCTY,2,7,40,60,Agriculture,40024.57,Active,High,Mobile Money
+2221536800CCTY,1,5,33,23,Technology & Gadgets,44720.19,Active,Medium,Bank Transfer
+2230101730CCTY,1,1,69,19,Agriculture,38221.96,Active,Low,Mobile Money
+2202182292CCTY,8,3,54,36,Agriculture,45186.06,Paid,Medium,Cash
+2126430076CCTY,1,3,12,3,Agriculture,32589.27,Delinquent,Low,Mobile Money
+2029400234CCTY,1,5,46,91,Transportation,16854.14,Delinquent,Low,Cash
+2202070583CCTY,5,5,52,19,Technology & Gadgets,10176.81,Active,Low,Mobile Money
+2126570120CCTY,2,0,49,59,Agriculture,6647.18,Delinquent,Low,Mobile Money
+2116806247CCTY,1,7,99,23,Technology & Gadgets,19905.47,Delinquent,Medium,Mobile Money
+2120451088CCTY,6,5,64,49,Trade & Commerce,5136.4,Delinquent,Medium,Cash
+2128553793CCTY,5,2,96,48,Trade & Commerce,40567.61,Active,Low,Cash
+2135185640CCTY,2,8,48,50,Agriculture,21300.33,Active,Low,Mobile Money
+2129883518CCTY,7,1,24,95,Technology & Gadgets,58068.37,Delinquent,Medium,Bank Transfer
+2135081853CCTY,1,7,13,35,Technology & Gadgets,7048.38,Delinquent,High,Mobile Money
+2130675881CCTY,7,9,95,97,Technology & Gadgets,17391.9,Active,High,Cash
+2132126769CCTY,2,2,34,99,Transportation,51656.74,Paid,Medium,Mobile Money
+2132339275CCTY,2,4,22,65,Trade & Commerce,42718.96,Delinquent,Low,Cash
+2233265766CCTY,25,5,91,78,Technology & Gadgets,6385.41,Paid,Low,Cash
+2331023040CCTY,3,9,42,33,Technology & Gadgets,61652.28,Delinquent,High,Cash
+2331097834CCTY,5,5,25,35,Transportation,61653.8,Paid,High,Mobile Money
+2317819413CCTY,2,3,51,5,Transportation,24467.74,Paid,Medium,Cash
+2328590023CCTY,11,2,75,38,Technology & Gadgets,25147.6,Paid,High,Cash
+2329362652CCTY,7,3,64,41,Communication & Telecom,69253.93,Active,Medium,Mobile Money
+2211170510CCTY,20,0,51,57,Technology & Gadgets,44579.98,Paid,High,Cash
+2213108032CCTY,3,3,43,11,Technology & Gadgets,38129.52,Paid,High,Mobile Money
+2107637240CCTY,9,0,39,2,Transportation,58994.35,Paid,High,Cash
+2124589665CCTY,2,0,22,17,Transportation,21399.74,Delinquent,Low,Bank Transfer
+2232203723CCTY,2,9,22,39,Technology & Gadgets,31184.42,Paid,Low,Bank Transfer
+2334809829CCTY,3,5,27,20,Technology & Gadgets,20208.81,Delinquent,Low,Cash
+2328208865CCTY,7,4,41,14,Technology & Gadgets,55662.94,Paid,High,Bank Transfer
+2332002617CCTY,20,3,48,96,Transportation,40987.76,Paid,Medium,Mobile Money
+2209069295CCTY,4,2,55,98,Technology & Gadgets,46800.1,Active,Medium,Bank Transfer
+2232224800CCTY,3,0,38,25,Technology & Gadgets,19156.89,Delinquent,Medium,Cash
+2320749940CCTY,2,5,71,7,Agriculture,16975.32,Paid,Medium,Cash
+2125261758CCTY,1,1,71,99,Communication & Telecom,35209.47,Delinquent,Low,Mobile Money
+2220900660CCTY,2,7,66,93,Trade & Commerce,52154.47,Delinquent,Low,Cash
+2321200582CCTY,4,9,25,86,Communication & Telecom,37716.3,Active,High,Mobile Money
+2333214712CCTY,3,4,65,41,Agriculture,4219.91,Active,High,Bank Transfer
+2336350035CCTY,12,6,19,43,Trade & Commerce,61061.5,Active,Medium,Bank Transfer
+2313517018CCTY,4,9,39,13,Technology & Gadgets,6398.71,Active,Low,Mobile Money
+2315050119CCTY,2,1,34,77,Agriculture,66996.06,Active,Medium,Mobile Money
+2230150040CCTY,7,7,93,1,Technology & Gadgets,3709.65,Active,High,Cash
+2220196980CCTY,3,1,14,36,Transportation,49222.63,Active,High,Bank Transfer
+2222399869CCTY,22,3,74,68,Agriculture,7590.08,Active,Medium,Mobile Money
+2317307282CCTY,3,0,58,37,Transportation,63926.01,Paid,High,Bank Transfer
+2324300385CCTY,2,4,12,40,Agriculture,33581.46,Delinquent,Medium,Mobile Money
+2313620879CCTY,13,8,54,61,Agriculture,11351.62,Active,Low,Bank Transfer
+2317756220CCTY,20,0,23,59,Transportation,25175.47,Active,Medium,Cash
+2319333691CCTY,7,8,39,13,Trade & Commerce,13208.08,Delinquent,Low,Bank Transfer
+2328982200CCTY,4,7,77,88,Communication & Telecom,13599.57,Paid,Low,Bank Transfer
+2317854315CCTY,3,5,27,83,Technology & Gadgets,66471.37,Delinquent,High,Bank Transfer
+2333445289CCTY,3,6,71,1,Agriculture,32276.74,Delinquent,High,Bank Transfer
+2221688091CCTY,5,2,46,69,Technology & Gadgets,55638.55,Active,High,Bank Transfer
+2233378457CCTY,1,0,34,16,Transportation,45493.18,Delinquent,Medium,Cash
+2317221093CCTY,10,4,57,88,Technology & Gadgets,47996.99,Delinquent,Medium,Mobile Money
+2327890461CCTY,6,1,74,27,Transportation,10955.15,Active,High,Bank Transfer
+2333410648CCTY,3,4,62,65,Technology & Gadgets,17924.54,Active,Medium,Cash
+2336333381CCTY,2,7,88,34,Communication & Telecom,55499.02,Active,High,Bank Transfer
+2332071162CCTY,6,8,82,4,Communication & Telecom,68012.1,Active,Medium,Bank Transfer
+2204998287CCTY,8,1,24,64,Communication & Telecom,19861.94,Delinquent,Low,Mobile Money
